@@ -31,7 +31,6 @@
 .login_header {
   text-decoration: none;
   font-weight: 600;
-    margin-left: 80%;
   color: #d2691e;
 }
 
@@ -45,21 +44,19 @@
 }
 
 .links {
-    color: #808080;
-    text-decoration: none;
-    font-weight: 600;
-  }
-  .footer_form{
-      background-color: #808080a1!important ;
-  }
-  .btn-outline-primary{
-      padding:20%;
-      background-color: #28d;
-  }
-  .copyright_text {
-    color: #808080;
-  }
-  
+  color: #808080;
+  text-decoration: none;
+  font-weight: 600;
+}
+.footer_form {
+  background-color: #808080a1 !important ;
+}
+.btn-outline-primary {
+  background-color: #28d;
+}
+.copyright_text {
+  color: #808080;
+}
 
 /*font-awesome icon*/
 .fa-image {
@@ -70,4 +67,3 @@
   background: #8080804d;
   color: #808080;
 }
-
